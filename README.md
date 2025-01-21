@@ -1,2 +1,2 @@
-# chrome_extention
+# Simple Chrome Extention
 Simple chrome extention
